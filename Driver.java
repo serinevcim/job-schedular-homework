@@ -1,4 +1,4 @@
-public class Surucu {
+public class Driver {
     public static void main(String[] args) {
         String path1 = "Jobs.txt";
         String path2 = "Dependencies.txt";
